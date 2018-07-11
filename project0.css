@@ -1,0 +1,20 @@
+h1 {
+    color: Navy;
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+    }
+
+h2 {
+    color: Navy;
+    font-size: 36px;
+    text-align: center;
+    font-family: sans-serif;
+    }
+
+h3 {
+    color: Navy;
+    font-size: 18px;
+    text-align: left;
+    }
